@@ -1,3 +1,5 @@
-### A projec
+## Pumpkin's Perfect Meme Picker
 
-## A project built by me while learning The Front-End Developer Career Path on scrimba.com. I have hosted the project on netlify and have given a detailed description    of all the concepts I learnt while learning intermediate Javascript Concepts in this module.
+Picks up a meme as per your the mood you select. Give it a try :)
+
+
